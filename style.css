@@ -1,5 +1,6 @@
 h2 {
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 p {
@@ -26,7 +27,9 @@ body {
 
 #foto {
     float: left;
-    height: 300px;
+    height: 280px;
+    padding: 10px;
+    background-color: darkolivegreen;
 }
 
 .image-box {
