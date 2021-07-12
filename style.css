@@ -1,0 +1,49 @@
+body {
+    padding: 4%;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6b705c;
+    font-weight: 400;
+    position: absolute;
+    top: 42%;
+    right: 10%;
+}
+
+body {
+    background-color: #b7b7a4;
+}
+
+.tamanhop {
+    font-size: 0.8em;
+}
+
+.tamanhom {
+    font-size: 1em;
+}
+
+.tamanhog {
+    font-size: 1.2em;
+}
+
+#foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: darkolivegreen;
+}
+
+.image-box {
+    height: 300px;
+    position: relative;
+}
+
+ul li:nth-child(odd) {
+    background-color: olivedrab;
+}
