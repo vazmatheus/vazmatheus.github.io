@@ -1,0 +1,25 @@
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6b705c;
+    font-weight: 400;
+}
+
+body {
+    background-color: #b7b7a4;
+}
+
+.tamanhop {
+    font-size: 0.8em;
+}
+
+.tamanhom {
+    font-size: 1em;
+}
+
+.tamanhog {
+    font-size: 1.2em;
+}
