@@ -23,3 +23,12 @@ body {
 .tamanhog {
     font-size: 1.2em;
 }
+
+#foto {
+    float: left;
+    height: 300px;
+}
+
+.image-box {
+    height: 300px;
+}
